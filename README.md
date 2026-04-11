@@ -3,7 +3,7 @@
 近期将以完善教程、发布功能和修bug为主。可以期待的功能和教学包括：歌曲组件和 Widdit/now-playing-service 的兼容、DoomVoss/BASpark 的 BA 光标、对 Vtube Studio 的原生兼容、对 osu 的支持等。
 
 ## 获取方式
-此仓库会实时更新最新最新的 Mira 安装包，请从 [release](https://github.com/Lumi083/mira-release/releases) 下载！
+此仓库会实时更新最新最新的 Mira 安装包，请参考下列说明，从 [release](https://github.com/Lumi083/mira-release/releases) 下载合适的安装包！
 
 主要支持的操作系统：
 
