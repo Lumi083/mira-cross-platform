@@ -3,12 +3,12 @@
 近期将以完善教程、发布功能和修bug为主。可以期待的功能和教学包括：歌曲组件和 Widdit/now-playing-service 的兼容、DoomVoss/BASpark 的 BA 光标、对 Vtube Studio 的原生兼容、对 osu 的支持等。
 
 ## 获取方式
-此仓库会实时更新最新最新的 Mira 安装包，请从 [release](https://github.com/Lumi083/mira-cross-platform/releases) 下载！
+此仓库会实时更新最新最新的 Mira 安装包，请从 [release](https://github.com/Lumi083/mira-release/releases) 下载！
 
 主要支持的操作系统：
 
 ### Windows10/11
-Windows 是本软件的主要支持平台，窗口捕捉、开机自启等功能可能只在 Windows 系统生效。推荐从 [release](https://github.com/Lumi083/mira-cross-platform/releases) 下载 `.exe`。
+Windows 是本软件的主要支持平台，窗口捕捉、开机自启等功能可能只在 Windows 系统生效。推荐从 [release](https://github.com/Lumi083/mira-release/releases) 下载 `.exe`。
 
 或者从 [微软商店页](https://apps.microsoft.com/store/detail/9NVQQRJ6CKBH?cid=DevShareMCLPCS) 获取稳定版本，不过内容更新可能会有落后。
 
